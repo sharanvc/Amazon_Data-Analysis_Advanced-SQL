@@ -70,7 +70,7 @@ Each query is clearly documented with questions and detailed explanations in the
 
 ## Author
 - **Name**: Sharan Vivek
-- 
+  
 ## License
 This project is for educational purposes. Feel free to use it, modify it, or extend it for your learning or portfolio!
 
