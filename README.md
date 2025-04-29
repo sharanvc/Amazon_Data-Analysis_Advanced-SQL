@@ -69,9 +69,8 @@ Each query is clearly documented with questions and detailed explanations in the
 - Optional: pgAdmin for easier database management
 
 ## Author
-- **Name**: [Sharan Vivek]
-- **GitHub**: []
-
+- **Name**: Sharan Vivek
+- 
 ## License
 This project is for educational purposes. Feel free to use it, modify it, or extend it for your learning or portfolio!
 
